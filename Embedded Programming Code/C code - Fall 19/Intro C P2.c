@@ -4,7 +4,6 @@
 
 /*
 	* Author : Amir Hajjari
-	* Lab 7, part b deliverable
 	* Date	: 10-16-19
 	* Description	: using delay and blink functions to show signal for differing time intervals
 */
