@@ -2,7 +2,6 @@
 
 /*
 	* Author : Amir Hajjari
-	* Lab 7, part A - Deliverable
 	* Date	: 10-16-19
 	* Description	: Incrementing and decrementing different variable types
 */
