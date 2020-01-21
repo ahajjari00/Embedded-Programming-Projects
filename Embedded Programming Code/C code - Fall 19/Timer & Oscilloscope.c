@@ -3,7 +3,6 @@
 
 /*
 	* Author : Amir Hajjari
-	* lab 10 Deliverable
 	* Date	: 11-13-19
 	* Description	: Generating a 440 HZ square wave using a prescaler of 64
 */
