@@ -4,7 +4,6 @@
 
 /*
 	* Author : Amir Hajjari
-	* lab 9 deliverable
 	* Date	: 11-06-19
 	* Description	: Using internal clock of HCS12 hardware to function as timing mechanisim to light up LEDS and speakers respectively.
 */
