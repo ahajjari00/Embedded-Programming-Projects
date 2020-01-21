@@ -4,7 +4,6 @@
 
 /*
 	* Author : Amir Hajjari
-	* Lab 8 Deliverable
 	* Date	: 10-23-19
 	* Description	: Uses SW3 - SW0 & SW7 as control flow determiner to excute either the blink or flash functions
 */
