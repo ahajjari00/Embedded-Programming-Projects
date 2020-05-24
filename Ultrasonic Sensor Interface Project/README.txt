@@ -8,3 +8,6 @@ Furthermore, the distance an object is from the ultrasonic sensor is displayed o
 If you have made it this far, thank you for taking the time to read this and I hope you enjoy!
 
 LINK TO VIDEO DEMONSTRATION: https://www.youtube.com/watch?v=Z9LF_vWRj8M
+
+Also, I would like to thank my Embedded Systems Professor, Matt Mohler, for supplying some of
+the code for the HC-SRO4 sensor reading throughout the semester.
