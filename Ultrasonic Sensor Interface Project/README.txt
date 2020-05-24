@@ -7,4 +7,4 @@ relative to the sensor, increases. This operation is evident in the video I incl
 Furthermore, the distance an object is from the ultrasonic sensor is displayed on the LCD screen. 
 If you have made it this far, thank you for taking the time to read this and I hope you enjoy!
 
-LINK TO VIDEO DEMONSTRATION: 
+LINK TO VIDEO DEMONSTRATION: https://www.youtube.com/watch?v=Z9LF_vWRj8M
