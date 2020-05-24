@@ -1,3 +1,6 @@
+RFID Scanner Project
+Amir Hajjari
+
 The goal behind this project was to create a system where I could configure an
 RFID reader to recognize however many UID codes (in my case only 2 as I do not own more RFID cards)
 and categorize them as either
@@ -8,3 +11,6 @@ much more clear.
 
 Thanks for your time!
 Amir Hajjari
+
+LINK TO DEMONSTRATION VIDEO: https://www.youtube.com/watch?v=R5J9GATgMOo
+
